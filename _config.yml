@@ -1,11 +1,11 @@
 # Site settings
 author: David Goldstein
-title: 
+title: Module 1 Final Project
 header-img: img/home-bg.png
 email: dg2996@columbia.edu
 copyright_name: David Goldstein
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Housing Data
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dgoldstein24
