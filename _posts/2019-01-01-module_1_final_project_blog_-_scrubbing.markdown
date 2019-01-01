@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Module 1 Final Project Blog - Scrubbing"
-date:       2019-01-01 23:06:50 +0000
+date:       2019-01-01 18:06:51 -0500
 permalink:  module_1_final_project_blog_-_scrubbing
 ---
 
