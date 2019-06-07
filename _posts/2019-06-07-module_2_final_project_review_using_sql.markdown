@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Module 2 Final Project Review: Using SQL"
-date:       2019-06-07 13:44:48 +0000
+date:       2019-06-07 09:44:49 -0400
 permalink:  module_2_final_project_review_using_sql
 ---
 
