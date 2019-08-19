@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Module 3  Project Review: Classification"
-date:       2019-08-19 18:10:30 +0000
+date:       2019-08-19 14:10:31 -0400
 permalink:  module_3_project_review_classification
 ---
 
