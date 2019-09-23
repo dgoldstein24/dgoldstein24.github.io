@@ -1,14 +1,14 @@
 ---
 layout: post
-title:      "Data Science Article Review: Amazon's Dynamo"
-date:       2019-09-23 19:29:50 +0000
+title:      "Data Science Article Review -  Deep Learning"
+date:       2019-09-23 15:29:51 -0400
 permalink:  data_science_article_review_amazons_dynamo
 ---
 
 
 
 Link:
-https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html
+https://arxiv.org/pdf/1801.05894.pdf
 
 This article introduces the basics of deep learning through the use of neural networks. In particular, it focuses on the application of this area of data science to mathematics, but many of the points are relevant to the business world. For one, an industry is arising for companies that provide more efficient, accurate systems and coding patterns for this type of statistical modeling. In addition, many companies in the technology sector have focused on improving graphics processing units’ capacity in order to keep pace with the advances that deep learning has allowed for in image processing. This is one area in which neural networks show a tremendous amount of progress, for one of its primary applications is to take unstructured data and find the undefined relationships between its subcomponents and group them into patterns. In other words, the color of one pixel does not inherently relate to the color of an adjacent pixel, but over several examples certain pixels tend to be near others. Deep learning allows for computers to pick up on these tendencies. This technology is crucial to the usage of facial recognition technology that has major business implications, i.e. security for the live events and entertainment industry.
 
